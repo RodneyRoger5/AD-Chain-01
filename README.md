@@ -1,6 +1,4 @@
-# Hack Academy — AD Chain 1: Full Walkthrough Write-Up
-
-**Domain:** `hack-academy.local` **Hosts identified:**
+# Active Directory Chain 01: Full Walkthrough Write-Up
 
 | Host | IP | Role |
 | --- | --- | --- |
